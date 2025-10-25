@@ -65,10 +65,10 @@ Player timers with increment
 Draw by insufficient material
 
 ## Team Members
-Muhammad Ahmad (Linkdin Link: www.linkedin.com/in/muhammad-ahmad-51522a332)
-Muhammad Ali 
-Muhammad Bilal
-Muhammad Imran
+* Muhammad Ahmad (Linkdin Link: www.linkedin.com/in/muhammad-ahmad-51522a332)
+* Muhammad Ali 
+* Muhammad Bilal
+* Muhammad Imran
 
 ## Learning Outcomes
 Gained hands-on experience with object-oriented programming in C++
