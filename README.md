@@ -22,12 +22,12 @@ The project is built entirely in C++ using Raylib for rendering and input handli
 * Developed with OOP and modular structure
 
 ## Technologies Used
-Language: C++
-Graphics Library: Raylib
-Programming Paradigm: Object-Oriented Programming
-Concepts Used: Inheritance, Polymorphism, Encapsulation
-File Handling: Used for saving and loading game state
-IDE/Tools: Code::Blocks, Visual Studio, or g++ compiler
+* Language: C++
+* Graphics Library: Raylib
+* Programming Paradigm: Object-Oriented Programming
+* Concepts Used: Inheritance, Polymorphism, Encapsulation
+* File Handling: Used for saving and loading game state
+* IDE/Tools: Code::Blocks, Visual Studio, or g++ compiler
 
 ## Installation and Running Instructions
 
@@ -47,22 +47,22 @@ Step 4: Run the game
 ./chess_game
 
 ## Controls
-Left Mouse Button - Select or move a chess piece
-S - Save current game
-U - Undo previous move
-R - Redo undone move
-Enter - Confirm or continue
-Escape - Exit the game
+* Left Mouse Button - Select or move a chess piece
+* S - Save current game
+* U - Undo previous move
+* R - Redo undone move
+* Enter - Confirm or continue
+* Escape - Exit the game
 
 ## Chess Rules Implemented
-Check and Checkmate detection
-Castling (King and Rook movement)
-Pawn Promotion
-En Passant capture
-Stalemate and 50-move rule
-Undo and Redo system
-Player timers with increment
-Draw by insufficient material
+* Check and Checkmate detection
+* Castling (King and Rook movement)
+* Pawn Promotion
+* En Passant capture
+* Stalemate and 50-move rule
+* Undo and Redo system
+* Player timers with increment
+* Draw by insufficient material
 
 ## Team Members
 * Muhammad Ahmad (Linkedin Link: www.linkedin.com/in/muhammad-ahmad-51522a332)
@@ -71,11 +71,11 @@ Draw by insufficient material
 * Muhammad Imran
 
 ## Learning Outcomes
-Gained hands-on experience with object-oriented programming in C++
-Learned how to design and manage a turn-based game system
-Applied game loop and event handling using Raylib
-Implemented save and load functionality through file handling
-Developed understanding of 2D graphics and rendering
+* Gained hands-on experience with object-oriented programming in C++
+* Learned how to design and manage a turn-based game system
+* Applied game loop and event handling using Raylib
+* Implemented save and load functionality through file handling
+* Developed understanding of 2D graphics and rendering
 
 ## License
 This project is licensed under the MIT License.
@@ -85,6 +85,5 @@ You are free to use, modify, and distribute this project with proper attribution
 GitHub Repository: [https://github.com/Muhammad-Ahmad-99/Chess_Game](https://github.com/Muhammad-Ahmad-99/Chess_Game)
 
 ## Developer Note
-
 If you find this project helpful, feel free to star the repository and share feedback.
 Made with dedication by Muhammad Ahmad and team.
