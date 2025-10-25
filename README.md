@@ -2,7 +2,7 @@
 A two-player chess game built in C++ with Raylib
 
 
-**Two-Player Chess Game (C++ with Raylib)**
+## Two-Player Chess Game (C++ with Raylib)**
 This is a two-player chess game built in C++ using the Raylib graphics library.
 It was developed as a group project by our BSCS team to apply object-oriented programming concepts, file handling, and game development logic.
 
