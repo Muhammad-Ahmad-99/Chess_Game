@@ -65,9 +65,9 @@ Player timers with increment
 Draw by insufficient material
 
 ## Team Members
-* Muhammad Ahmad (Linkdin Link: www.linkedin.com/in/muhammad-ahmad-51522a332)
-* Muhammad Ali 
-* Muhammad Bilal
+* Muhammad Ahmad (Linkedin Link: www.linkedin.com/in/muhammad-ahmad-51522a332)
+* Muhammad Ali (Linkedin Link: https://www.linkedin.com/in/muhammad-ali-gohar-b47662277)
+* Muhammad Bilal (Linkedin Link: https://www.linkedin.com/in/muhammad-bilal-coder)
 * Muhammad Imran
 
 ## Learning Outcomes
